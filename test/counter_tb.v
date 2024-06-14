@@ -6,7 +6,7 @@ module test_counter();
    wire [3:0] phase_acc = 4'b0;
 
    phase_acc phase_acc_DUT(.clk(clk),
-                           .f_out(500000),
+                           .mult(2),
                            .reset(reset),
                            .phase_acc(phase_acc));
 

@@ -14,7 +14,7 @@
 
 module phase_acc (
                   input            clk,
-                  input [19:0]     f_out,
+                  input [7:0]      mult, //if we want to multiply 1khz by, say 10, we can do that.
                   input            reset,
                   output reg [7:0] phase_acc = 4'b0
                   );
@@ -22,9 +22,14 @@ module phase_acc (
    parameter                       f_clk = 1000000;
 
    always @(posedge clk) begin
-      phase_acc <= phase_acc + f_clk/f_out; //e.g. if we want 500kHz, then each time we increment by 1Mhz/0.5Mhz = 2.
-      if (phase_acc == (2**8 - 1 - f_clk/f_out))
+      phase_acc <= phase_acc + mult;
+      if (phase_acc != 0 && phase_acc < mult) //if we wrap around, and we get, say 1 or something instead of 0, then go back to 0. Shouldn't be an issue if you use powers of 2
         phase_acc <= 8'b0;
+      if (phase_acc == 0)
+        $display("starting");
+
+
+
    end
 
    always @(negedge reset) begin

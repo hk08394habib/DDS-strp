@@ -1,0 +1,1829 @@
+start
+VCD info: dumpfile counter.vcd opened for output.
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+address is 208
+address mapped to negative
+Shift address is 82
+address mapped to second
+ 12
+
+address is 224
+address mapped to negative
+Shift address is 98
+address mapped to second
+ 37
+
+address is 240
+address mapped to negative
+Shift address is 114
+address mapped to second
+ 71
+
+address is 0
+address mapped to positive
+Shift address is 0
+address mapped to first
+100
+
+starting
+address is 16
+address mapped to positive
+Shift address is 16
+address mapped to first
+138
+
+address is 32
+address mapped to positive
+Shift address is 32
+address mapped to first
+170
+
+address is 48
+address mapped to positive
+Shift address is 48
+address mapped to first
+192
+
+address is 64
+address mapped to positive
+Shift address is 64
+address mapped to second
+199
+
+address is 80
+address mapped to positive
+Shift address is 80
+address mapped to second
+190
+
+address is 96
+address mapped to positive
+Shift address is 96
+address mapped to second
+167
+
+address is 112
+address mapped to positive
+Shift address is 112
+address mapped to second
+133
+
+address is 128
+address mapped to negative
+Shift address is 2
+address mapped to first
+ 96
+
+address is 144
+address mapped to negative
+Shift address is 18
+address mapped to first
+ 58
+
+address is 160
+address mapped to negative
+Shift address is 34
+address mapped to first
+ 26
+
+address is 176
+address mapped to negative
+Shift address is 50
+address mapped to first
+  6
+
+address is 192
+address mapped to negative
+Shift address is 66
+address mapped to second
+  1
+
+finish
+./test/dds_tb.v:31: $finish called at 600 (1s)

@@ -16,7 +16,7 @@ for i in range(maximum_value): #You generate a quarter of the sin lookup values
 
     sin_val = abs(sin_val)
     calculated_sin = int((sin_val+1)*100)
-    string = "6'b" + bin(i)[2:] + ": " + "intermediate_value = 8'd" + str(calculated_sin) +  ";"
+    string = "6'b" + bin(i)[2:] + ": " + "value = 8'd" + str(calculated_sin) +  ";"
     print(string)
     shifted_sin_values.append((val, calculated_sin))
     direct_sin_values.append((val, sin_val))

@@ -1,4 +1,4 @@
-under_test = counter_tb
+under_test = dds_tb
 under_test_path = ./test/${under_test}.v
 out_file = ./test/${under_test}.out
 all:
@@ -9,4 +9,6 @@ view:
 
 testbench:
 	iverilog -o ${out_file} src/*.v ${under_test_path}
-	vvp ${out_file}
+	vvp ${out_file} > log.txt
+	python3 read_and_plot.py
+
