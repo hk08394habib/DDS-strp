@@ -1,15 +1,14 @@
 `timescale 1us/1us
 
-
 module test_counter();
-
    reg clk = 1'b0;
    reg reset = 1'b0;
-   wire [3:0] count_out = 4'b0;
+   wire [3:0] phase_acc = 4'b0;
 
-   counter counter_DUT(.clk(clk),
-                       .reset(reset),
-                       .count_out(count_out));
+   phase_acc phase_acc_DUT(.clk(clk),
+                           .f_out(500000),
+                           .reset(reset),
+                           .phase_acc(phase_acc));
 
    initial begin
       clk = 1'b0;
@@ -20,11 +19,11 @@ module test_counter();
       $dumpfile("counter.vcd");
       $dumpvars();
       #30
-      $finish();
+        $finish();
    end
 
    always @(*) begin
-      $monitor("[$monitor] time=%0t, count=0x%0h \n", $time, counter_DUT.count_out);
+      $monitor("[$monitor] time=%0t, phase_acc=%0d \n", $time, phase_acc_DUT.phase_acc);
    end
 
 endmodule; // test_counter
